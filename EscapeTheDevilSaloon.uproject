@@ -18,10 +18,6 @@
 		{
 			"Name": "GameplayAbilities",
 			"Enabled": true
-		},
-		{
-			"Name": "GitSourceControl",
-			"Enabled": false
 		}
 	]
 }
